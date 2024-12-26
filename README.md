@@ -1,16 +1,28 @@
-# expense_tracker
+# Expense Tracker App
 
-A new Flutter project.
+## Overview
+The **Expense Tracker App** is a user-friendly mobile application designed to help you track your expenses efficiently. It supports dynamic layouts for both portrait and landscape modes, ensuring a seamless experience across iOS and Android devices.
 
-## Getting Started
+## Features
+- **Responsiveness**:
+  - Optimized for portrait and landscape orientations.
+  - Works flawlessly on both iOS and Android platforms.
 
-This project is a starting point for a Flutter application.
+- **Expense Categories**:
+  - Organize your expenses into one of the four predefined categories:
+    - **Food**
+    - **Travel**
+    - **Leisure**
+    - **Work**
 
-A few resources to get you started if this is your first Flutter project:
+- **Expense Analysis**:
+  - A chart visually represents your expenses, highlighting the most expensive category at a glance.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **User-Friendly Design**:
+  - Easily add new expenses with details such as title, amount, date, and category.
+  - Intuitive interface for viewing and managing expenses.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Dariusan3/Expense_Tracker_App.git

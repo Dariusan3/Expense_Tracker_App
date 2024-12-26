@@ -21,8 +21,3 @@ The **Expense Tracker App** is a user-friendly mobile application designed to he
 - **User-Friendly Design**:
   - Easily add new expenses with details such as title, amount, date, and category.
   - Intuitive interface for viewing and managing expenses.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Dariusan3/Expense_Tracker_App.git
